@@ -2,3 +2,6 @@ python -m venv venv
 
 Activando comando virtual
 redoc para revisar errores
+
+
+http://127.0.0.1:8000/docs  // revisar rutas
