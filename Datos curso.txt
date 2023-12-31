@@ -1,0 +1,4 @@
+python -m venv venv
+
+Activando comando virtual
+redoc para revisar errores
